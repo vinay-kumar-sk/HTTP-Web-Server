@@ -110,6 +110,31 @@ http://localhost:8080
 10. Closes the client connection.
 
 ---
+## 📸 Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+### About Page
+
+![About](screenshots/about.png)
+
+---
+
+### Contact Page
+
+![Contact](screenshots/contact.png)
+
+---
+
+### 404 Error Page
+
+![404](screenshots/404.png)
+
+---
 
 ## 🔮 Future Improvements
 
