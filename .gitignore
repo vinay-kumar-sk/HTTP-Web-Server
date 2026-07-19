@@ -1,0 +1,10 @@
+server.exe
+
+.vscode/
+
+logs/*.log
+
+*.obj
+*.o
+*.exe
+*.pdb
