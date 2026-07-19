@@ -111,17 +111,6 @@ http://localhost:8080
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Home Page
-- About Page
-- Contact Page
-- 404 Error Page
-
----
-
 ## 🔮 Future Improvements
 
 - Multi-threading
