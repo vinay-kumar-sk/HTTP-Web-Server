@@ -1,0 +1,21 @@
+# Executable
+server.exe
+
+# Build folder
+build/
+
+# Log files
+logs/*.log
+
+# VS Code
+.vscode/
+
+# Windows
+*.obj
+*.o
+*.exe
+*.pdb
+
+# Temporary files
+*.tmp
+*.temp
